@@ -1,7 +1,11 @@
 # CHANGELOG
 
 
-## Unreleased
+## v1.0.0 (2024-10-20)
+
+### Breaking
+
+* feat!: something happened ([`47b3447`](https://github.com/mehranasghari/flet-practice/commit/47b344791ce24a3c85cf4cc4b918a6c5730c32e5))
 
 ### Features
 
